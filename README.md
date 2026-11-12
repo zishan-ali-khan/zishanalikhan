@@ -35,7 +35,7 @@ A repair and warranty tracking system for new-build flats. It calculates each fl
 
 ## 📊 GitHub stats
 
-![Zishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=zishan-ali-khan&show_icons=true&hide_border=true&bg_color=F4F6FA&title_color=14213D&icon_color=1B998B&text_color=374151)
+![Zishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=zishanalikhan&show_icons=true&hide_border=true&bg_color=F4F6FA&title_color=14213D&icon_color=1B998B&text_color=374151)
 
 ## 📫 Let's connect
 
