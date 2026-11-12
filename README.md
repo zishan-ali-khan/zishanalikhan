@@ -33,9 +33,10 @@ A repair and warranty tracking system for new-build flats. It calculates each fl
 **Tools:** SQL Server · Python · pandas · Streamlit · Power BI · Excel
 **Live demo:** [Open the app](ADD-YOUR-STREAMLIT-LINK-HERE)
 
-## 📊 GitHub stats
-
-![Zishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=zishanalikhan&show_icons=true&hide_border=true&bg_color=F4F6FA&title_color=14213D&icon_color=1B998B&text_color=374151)
+## 🎯 What I'm working on next
+- 🤖 Adding a machine-learning step to FlatCare Tracker: a complaint-category classifier with scikit-learn
+- 📈 Building more Power BI dashboards with DAX
+- 🗄️ Practising advanced SQL: joins, window functions, and query optimisation
 
 ## 📫 Let's connect
 
