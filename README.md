@@ -39,4 +39,4 @@ A repair and warranty tracking system for new-build flats. It calculates each fl
 
 ## 📫 Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([ADD-YOUR-LINKEDIN-LINK-HERE](https://www.linkedin.com/in/zishan-ali-khan/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([(https://www.linkedin.com/in/zishan-ali-khan/)])
